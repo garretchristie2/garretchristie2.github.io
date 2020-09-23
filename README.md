@@ -1,2 +1,1 @@
-# garretchristie2.github.io
-Garret Christie's GIS Project Portfolio
+#  Garret's GIS Project Portfolio 
