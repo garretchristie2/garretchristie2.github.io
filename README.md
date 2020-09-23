@@ -3,3 +3,4 @@ I am a student at Colorado Mountain College concentrating in Natural Resource Ma
 ## Covid - 19 in Colorado Springs, Co Story Map
 The following story map was created for residents of Colorado Springs, Co to serve as a resource during the Covid- 19 pandemic. It displays information about the status of local businesses and services including testing sites, grocery stores hours and local food pantries. The latter portion of the project depicts real time data regarding Covid - 19 cases in Colorado Counties.  
 ![Covid-19 Story Map of Colorado Springs](Covid-19StoryMap.png)
+(https://storymaps.arcgis.com/stories/dd95179d1307443792725e56c4dff62a) 
